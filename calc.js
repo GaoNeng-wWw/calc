@@ -1,3 +1,5 @@
 const add = (a,b) => a+b;
+const sub = (a,b) => a-b;
 
 module.add = add;
+module.sub = sub;
